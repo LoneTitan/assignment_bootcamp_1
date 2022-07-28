@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.bootcamp.bookshop.user.UserServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-28T09:52:57" hostname="NT-IT-LT-2163" time="0.493">
+  <properties/>
+  <testcase name="shouldCreateUserWithValidInputs()" classname="com.tw.bootcamp.bookshop.user.UserServiceTest" time="0.219"/>
+  <testcase name="shouldReturnUserForGivenValidEmail()" classname="com.tw.bootcamp.bookshop.user.UserServiceTest" time="0.091"/>
+  <testcase name="shouldNotCreateUserWhenUserWithSameEmailAlreadyExists()" classname="com.tw.bootcamp.bookshop.user.UserServiceTest" time="0.092"/>
+  <testcase name="shouldReturnUserNotFoundExceptionForGivenInValidEmail()" classname="com.tw.bootcamp.bookshop.user.UserServiceTest" time="0.001"/>
+  <testcase name="shouldNotCreateUserWhenInputIsInvalid()" classname="com.tw.bootcamp.bookshop.user.UserServiceTest" time="0.09"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
