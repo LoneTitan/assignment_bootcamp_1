@@ -1,0 +1,24 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "../node_modules/.bin/jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "require": "^2.4.20",
+    "url": "^0.11.0"
+  }
+}
